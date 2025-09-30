@@ -1,0 +1,4 @@
+Interval-relaxed CRASH box detection metrics
+Source: /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/exp207.5/results (1)
+
+Overall: frames=134092 tp=37531 tn=68201 fp=13225 fn=15135 acc=0.788503 prec=0.739440 rec=0.712623 f1=0.725784

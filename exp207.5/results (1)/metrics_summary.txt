@@ -1,0 +1,4 @@
+Per-directory CRASH box detection metrics
+Source: /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/exp207.5/results (1)
+
+Overall: frames=134092 tp=9331 tn=68201 fp=13225 fn=43335 acc=0.578200 prec=0.413682 rec=0.177173 f1=0.248092

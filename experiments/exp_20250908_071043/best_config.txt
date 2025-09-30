@@ -1,0 +1,11 @@
+{
+  "best_score": 2.0,
+  "config": {
+    "pred_horizon": 30,
+    "pred_step": 2,
+    "pred_iou_thresh": 0.24,
+    "intersect_margin": -14,
+    "min_pair_speed": 1.54
+  },
+  "output_video": "experiments/exp_20250908_071043/best_output.mp4"
+}

@@ -1,0 +1,12 @@
+*.mp4
+*.jsonl
+*.csv
+*.pt
+*.pth
+*.pkl
+*.ptl
+*.pthl
+*.pkl
+*.ptl
+.DS_Store
+*.zip

@@ -1,0 +1,11 @@
+{
+  "best_score": 0.0,
+  "config": {
+    "pred_horizon": 8,
+    "pred_step": 1,
+    "pred_iou_thresh": 0.04,
+    "intersect_margin": -14,
+    "min_pair_speed": 8.21
+  },
+  "output_video": null
+}

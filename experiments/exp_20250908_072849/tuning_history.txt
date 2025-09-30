@@ -1,0 +1,3 @@
+{"iter": 1, "score": 0.0, "config": {"pred_horizon": 12, "pred_step": 2, "pred_iou_thresh": 0.18, "intersect_margin": -14, "min_pair_speed": 7.67}}
+{"iter": 2, "score": 2.0, "config": {"pred_horizon": 20, "pred_step": 1, "pred_iou_thresh": 0.15, "intersect_margin": -10, "min_pair_speed": 2.3}}
+{"iter": 3, "score": 0.0, "config": {"pred_horizon": 8, "pred_step": 1, "pred_iou_thresh": 0.17, "intersect_margin": -25, "min_pair_speed": 5.6}}
