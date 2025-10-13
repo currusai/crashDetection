@@ -82,6 +82,24 @@ pip install -r requirements.txt
     python train_fcn_motion_vectors.py
     ```
 
+- `train_autoencoder_motion_vectors.py`: Train an encoder–decoder with reconstruction loss on 3-second motion-vector windows and probe embeddings for crash vs normal.
+  - Builds 3s windows per video using FPS from a matching `.mp4` (falls back to 30 FPS), labels a window as crash if it overlaps any annotated crash interval.
+  - Resamples each window to a fixed `CFG.target_frames` (default 48) to get consistent model input size.
+  - Saves model weights (`sequence_autoencoder.pth`) and embeddings (`ae_embeddings.npz`), and prints linear-probe accuracy.
+  - Usage:
+  ```bash
+  python train_autoencoder_motion_vectors.py
+  ```
+
+- `train_autoencoder_frames.py`: Train a per-frame convolutional autoencoder on 3-second video windows sampled directly from `.mp4` files.
+  - Windows are labeled crash if overlapping any annotated interval from matching `*_annotations.csv`.
+  - Each window is resampled to `CFG.target_frames` and frames are resized to `CFG.img_size`.
+  - Saves `frame_autoencoder.pth` and `frame_ae_embeddings.npz`; prints linear-probe accuracy.
+  - Usage:
+  ```bash
+  python train_autoencoder_frames.py
+  ```
+
 - `model_trainerr.py`: PyTorch classifier training on image sequences (3 frames sampled from 30-frame sequences) with optional severity signal.
   - Expects dataset laid out as `binary_format/{crashed,normal}/*.jpg` and tries to align frames with `*_annotations.csv` to inject severity.
   - Tunables at top of file (e.g., `DATA_DIR`, `ANNOTATIONS_DIR`, `MIN_CRASH_SEVERITY`, augmentation, sampler).

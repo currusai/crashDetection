@@ -1,0 +1,192 @@
+2025-10-10 16:00:26 | INFO | Starting frames autoencoder training
+2025-10-10 16:00:26 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-10 16:00:26 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-10 16:00:34 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-10 16:00:36 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-10 16:00:39 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-10 16:00:39 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-10 16:00:42 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-10 16:00:45 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-10 16:00:47 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-10 16:00:50 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-10 16:00:50 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-10 16:00:50 | INFO | Device: mps
+2025-10-10 16:00:51 | INFO | Model params: 9,484,963
+2025-10-10 16:00:51 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-10 16:01:35 | INFO | Starting frames autoencoder training
+2025-10-10 16:01:35 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-10 16:01:35 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-10 16:01:35 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-10 16:01:35 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-10 16:01:35 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-10 16:01:35 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-10 16:01:35 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-10 16:01:35 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-10 16:01:35 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-10 16:01:35 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-10 16:01:35 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-10 16:01:35 | INFO | Device: mps
+2025-10-10 16:01:36 | INFO | Model params: 9,484,963
+2025-10-10 16:01:36 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-10 16:01:47 | INFO | Starting frames autoencoder training
+2025-10-10 16:01:47 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-10 16:01:47 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-10 16:01:47 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-10 16:01:47 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-10 16:01:47 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-10 16:01:47 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-10 16:01:47 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-10 16:01:47 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-10 16:01:47 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-10 16:01:47 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-10 16:01:47 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-10 16:01:47 | INFO | Device: mps
+2025-10-10 16:01:48 | INFO | Model params: 9,484,963
+2025-10-10 16:01:48 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-10 16:29:37 | INFO | Starting frames autoencoder training
+2025-10-10 16:29:37 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-10 16:29:37 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-10 16:29:37 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-10 16:29:37 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-10 16:29:37 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-10 16:29:37 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-10 16:29:37 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-10 16:29:37 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-10 16:29:37 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-10 16:29:38 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-10 16:29:38 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-10 16:29:38 | INFO | Device: mps
+2025-10-10 16:29:39 | INFO | Model params: 9,484,963
+2025-10-10 16:29:39 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-10 21:13:59 | INFO | Epoch 01/5 | recon=0.0208 | val_recon=0.0202 | time=17060.8s
+2025-10-11 04:30:23 | INFO | Epoch 02/5 | recon=0.0113 | val_recon=0.0174 | time=26183.6s
+2025-10-11 08:18:19 | INFO | Epoch 03/5 | recon=0.0088 | val_recon=0.0169 | time=13676.0s
+2025-10-11 12:03:55 | INFO | Epoch 04/5 | recon=0.0075 | val_recon=0.0168 | time=13536.1s
+2025-10-11 17:32:14 | INFO | Epoch 05/5 | recon=0.0069 | val_recon=0.0170 | time=19699.0s
+2025-10-11 17:32:14 | INFO | Saved frame autoencoder to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_autoencoder.pth
+2025-10-11 22:42:59 | INFO | Saved embeddings to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_ae_embeddings.npz | train_z=(8757, 256) | val_z=(1325, 256)
+2025-10-11 22:43:00 | INFO | Linear probe accuracy (val): 0.4408
+2025-10-11 22:43:00 | INFO | 
+              precision    recall  f1-score   support
+
+      normal       0.39      0.41      0.40       597
+       crash       0.49      0.47      0.48       728
+
+    accuracy                           0.44      1325
+   macro avg       0.44      0.44      0.44      1325
+weighted avg       0.44      0.44      0.44      1325
+
+2025-10-11 23:23:37 | INFO | Starting frames autoencoder training
+2025-10-11 23:23:37 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-11 23:23:37 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-11 23:23:37 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-11 23:23:37 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-11 23:23:37 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-11 23:23:37 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-11 23:23:37 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-11 23:23:37 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-11 23:23:37 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-11 23:23:37 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-11 23:23:37 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-11 23:23:37 | INFO | Device: mps
+2025-10-11 23:23:38 | INFO | Model params: 9,484,963
+2025-10-11 23:23:38 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-11 23:23:38 | INFO | Triplet loss weight: 0.4 | margin: 1.0
+2025-10-11 23:24:23 | INFO | Starting frames autoencoder training
+2025-10-11 23:24:23 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-11 23:24:23 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-11 23:24:23 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-11 23:24:23 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-11 23:24:23 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-11 23:24:23 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-11 23:24:24 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-11 23:24:24 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-11 23:24:24 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-11 23:24:24 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-11 23:24:24 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-11 23:24:24 | INFO | Device: mps
+2025-10-11 23:24:24 | INFO | Model params: 9,484,963
+2025-10-11 23:24:24 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-11 23:24:24 | INFO | Triplet loss weight: 0.4 | margin: 1.0
+2025-10-12 03:15:48 | INFO | Epoch 01/5 | recon=0.0478 | triplet=1.8544 | val_recon=0.0399 | val_triplet=0.1460 | time=13884.0s
+2025-10-12 07:07:30 | INFO | Epoch 02/5 | recon=0.0407 | triplet=1.2407 | val_recon=0.0441 | val_triplet=0.1919 | time=13901.7s
+2025-10-12 10:58:01 | INFO | Epoch 03/5 | recon=0.0347 | triplet=0.9155 | val_recon=0.0362 | val_triplet=0.2198 | time=13831.5s
+2025-10-12 19:25:41 | INFO | Epoch 04/5 | recon=0.0307 | triplet=0.7198 | val_recon=0.0320 | val_triplet=0.2251 | time=30459.2s
+2025-10-12 23:42:09 | INFO | Epoch 05/5 | recon=0.0270 | triplet=0.5918 | val_recon=0.0287 | val_triplet=0.2250 | time=15388.4s
+2025-10-12 23:42:09 | INFO | Saved frame autoencoder to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_autoencoder.pth
+2025-10-13 03:33:24 | INFO | Saved embeddings to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_ae_embeddings.npz | train_z=(8757, 256) | val_z=(1325, 256)
+2025-10-13 03:33:25 | INFO | Linear probe accuracy (val): 0.5457
+2025-10-13 03:33:25 | INFO | 
+              precision    recall  f1-score   support
+
+      normal       0.50      0.59      0.54       597
+       crash       0.60      0.51      0.55       728
+
+    accuracy                           0.55      1325
+   macro avg       0.55      0.55      0.55      1325
+weighted avg       0.55      0.55      0.55      1325
+
+2025-10-13 12:49:42 | INFO | Starting frames autoencoder training
+2025-10-13 12:49:42 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-13 12:49:42 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-13 12:49:43 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-13 12:49:44 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-13 12:49:44 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-13 12:49:45 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-13 12:49:46 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-13 12:49:47 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-13 12:49:47 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-13 12:49:48 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-13 12:49:48 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-13 12:49:48 | INFO | Device: mps
+2025-10-13 12:49:49 | INFO | Model params: 9,484,963
+2025-10-13 12:49:49 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-13 12:49:49 | INFO | Triplet loss weight: 0.4 | margin: 5
+2025-10-13 15:23:57 | INFO | Starting frames autoencoder training
+2025-10-13 15:23:57 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-13 15:23:57 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-13 15:23:57 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-13 15:23:57 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-13 15:23:57 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-13 15:23:57 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-13 15:23:57 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-13 15:23:57 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-13 15:23:58 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-13 15:23:58 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-13 15:23:58 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-13 15:23:58 | INFO | Device: mps
+2025-10-13 15:23:59 | INFO | Model params: 9,484,963
+2025-10-13 15:23:59 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-13 15:23:59 | INFO | Triplet loss weight: 0.4 | margin: 5
+2025-10-13 18:36:32 | INFO | Starting frames autoencoder training
+2025-10-13 18:36:32 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-13 18:36:32 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-13 18:36:32 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-13 18:36:32 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-13 18:36:33 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-13 18:36:33 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-13 18:36:33 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-13 18:36:33 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-13 18:36:33 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-13 18:36:33 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-13 18:36:33 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-13 18:36:33 | INFO | Device: mps
+2025-10-13 18:36:34 | INFO | Model params: 9,484,963
+2025-10-13 18:36:34 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-13 18:36:34 | INFO | Triplet loss weight: 0.4 | margin: 5
+2025-10-13 20:16:48 | INFO | Starting frames autoencoder training
+2025-10-13 20:16:48 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-13 20:16:48 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-13 20:16:48 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-13 20:16:48 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-13 20:16:48 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-13 20:16:48 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-13 20:16:48 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-13 20:16:48 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-13 20:16:48 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-13 20:16:48 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-13 20:16:48 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-13 20:16:49 | INFO | Device: mps
+2025-10-13 20:16:50 | INFO | Model params: 9,484,963
+2025-10-13 20:16:50 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-13 20:16:50 | INFO | Triplet loss weight: 0.4 | margin: 5

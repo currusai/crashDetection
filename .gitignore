@@ -10,3 +10,4 @@
 *.ptl
 .DS_Store
 *.zip
+*.npz
