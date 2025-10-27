@@ -43,7 +43,7 @@ class CFG:
     
     # Triplet loss parameters
     triplet_margin: float = 5
-    triplet_weight: float = 0.4  # Weight for triplet loss relative to reconstruction loss
+    triplet_weight: float = 1  # Weight for triplet loss relative to reconstruction loss
 
 
 def set_seed(seed: int) -> None:

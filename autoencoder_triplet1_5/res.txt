@@ -1,0 +1,10 @@
+2025-10-27 17:16:05 | INFO | Linear probe accuracy (val): 0.5464
+2025-10-27 17:16:05 | INFO | 
+              precision    recall  f1-score   support
+
+      normal       0.50      0.41      0.45       597
+       crash       0.58      0.66      0.61       728
+
+    accuracy                           0.55      1325
+   macro avg       0.54      0.53      0.53      1325
+weighted avg       0.54      0.55      0.54      1325

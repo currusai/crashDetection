@@ -190,3 +190,55 @@ weighted avg       0.55      0.55      0.55      1325
 2025-10-13 20:16:50 | INFO | Model params: 9,484,963
 2025-10-13 20:16:50 | INFO | Train samples: 8757 | Val samples: 1325
 2025-10-13 20:16:50 | INFO | Triplet loss weight: 0.4 | margin: 5
+2025-10-14 04:49:09 | INFO | Epoch 01/5 | recon=0.0483 | triplet=5.4826 | val_recon=0.0516 | val_triplet=1.4794 | time=30739.4s
+2025-10-14 20:41:36 | INFO | Epoch 02/5 | recon=0.0465 | triplet=5.5072 | val_recon=0.0570 | val_triplet=1.1843 | time=57147.3s
+2025-10-15 17:44:01 | INFO | Epoch 03/5 | recon=0.0394 | triplet=4.7375 | val_recon=0.0377 | val_triplet=1.2419 | time=75744.6s
+2025-10-15 22:47:52 | INFO | Epoch 04/5 | recon=0.0326 | triplet=3.9815 | val_recon=0.0353 | val_triplet=1.2951 | time=18231.3s
+2025-10-16 15:39:38 | INFO | Epoch 05/5 | recon=0.0278 | triplet=3.2676 | val_recon=0.0326 | val_triplet=1.2991 | time=60705.8s
+2025-10-16 15:39:39 | INFO | Saved frame autoencoder to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_autoencoder.pth
+2025-10-16 20:00:07 | INFO | Saved embeddings to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_ae_embeddings.npz | train_z=(8757, 256) | val_z=(1325, 256)
+2025-10-16 20:00:11 | INFO | Linear probe accuracy (val): 0.5147
+2025-10-16 20:00:11 | INFO | 
+              precision    recall  f1-score   support
+
+      normal       0.46      0.47      0.46       597
+       crash       0.56      0.55      0.56       728
+
+    accuracy                           0.51      1325
+   macro avg       0.51      0.51      0.51      1325
+weighted avg       0.52      0.51      0.51      1325
+
+2025-10-16 22:23:26 | INFO | Starting frames autoencoder training
+2025-10-16 22:23:26 | INFO | Config: data_dir=/Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos | window_seconds=3.0 | target_frames=32 | img_size=128 | batch_size=8 | epochs=5 | latent_dim=256
+2025-10-16 22:23:26 | INFO | Discovered 8 videos with annotations in /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos
+2025-10-16 22:23:26 | INFO | Built 1510 windows for Crashes caught on Seattle traffic cameras 9!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=921 (61.0%)
+2025-10-16 22:23:26 | INFO | Built 1112 windows for Crashes caught on Seattle traffic cameras 5!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=602 (54.1%)
+2025-10-16 22:23:26 | INFO | Built 1242 windows for Crashes caught on Seattle traffic cameras 4!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=670 (53.9%)
+2025-10-16 22:23:26 | INFO | Built 1395 windows for Crashes caught on Seattle traffic cameras 8!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=763 (54.7%)
+2025-10-16 22:23:26 | INFO | Built 1325 windows for Crashes caught on Seattle traffic cameras 2!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=728 (54.9%)
+2025-10-16 22:23:27 | INFO | Built 1180 windows for Crashes caught on Seattle traffic cams #3!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=542 (45.9%)
+2025-10-16 22:23:27 | INFO | Built 1025 windows for Crashes caught on Seattle traffic cameras 7!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=624 (60.9%)
+2025-10-16 22:23:27 | INFO | Built 1293 windows for Crashes caught on Seattle Traffic Cameras 6!.mp4 | FPS=29.97 | window_len=90 | stride=15 | crash=668 (51.7%)
+2025-10-16 22:23:27 | INFO | Total windows: 10082 | Crash windows: 5518 (54.7%)
+2025-10-16 22:23:27 | INFO | Device: mps
+2025-10-16 22:23:28 | INFO | Model params: 9,484,963
+2025-10-16 22:23:28 | INFO | Train samples: 8757 | Val samples: 1325
+2025-10-16 22:23:28 | INFO | Triplet loss weight: 1 | margin: 5
+2025-10-17 18:58:24 | INFO | Epoch 01/5 | recon=0.0474 | triplet=5.5587 | val_recon=0.0516 | val_triplet=1.4848 | time=74096.3s
+2025-10-18 01:13:20 | INFO | Epoch 02/5 | recon=0.0447 | triplet=5.2471 | val_recon=0.0508 | val_triplet=1.4757 | time=22495.3s
+2025-10-18 07:13:30 | INFO | Epoch 03/5 | recon=0.0424 | triplet=5.0396 | val_recon=0.0384 | val_triplet=1.4074 | time=21610.8s
+2025-10-25 12:32:18 | INFO | Epoch 04/5 | recon=0.0379 | triplet=4.7226 | val_recon=0.0377 | val_triplet=1.4500 | time=623927.9s
+2025-10-26 17:05:15 | INFO | Epoch 05/5 | recon=0.0337 | triplet=4.1865 | val_recon=0.0358 | val_triplet=1.4715 | time=102776.6s
+2025-10-26 17:05:15 | INFO | Saved frame autoencoder to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_autoencoder.pth
+2025-10-27 17:16:02 | INFO | Saved embeddings to /Users/yousefradwan/Library/CloudStorage/GoogleDrive-radwanf2025@gmail.com/My Drive/Yousef/OttonomiAI/CarAccidentVideos/frame_ae_embeddings.npz | train_z=(8757, 256) | val_z=(1325, 256)
+2025-10-27 17:16:05 | INFO | Linear probe accuracy (val): 0.5464
+2025-10-27 17:16:05 | INFO | 
+              precision    recall  f1-score   support
+
+      normal       0.50      0.41      0.45       597
+       crash       0.58      0.66      0.61       728
+
+    accuracy                           0.55      1325
+   macro avg       0.54      0.53      0.53      1325
+weighted avg       0.54      0.55      0.54      1325
+
